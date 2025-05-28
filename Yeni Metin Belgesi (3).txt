@@ -1,0 +1,18 @@
+Meslek	  S1 (Hafıza)	S2 (Kitap)	   S3 (Kişilik)	   Puan	    Açıklama
+-------------------------------------------------------------------------------------
+Yazar	    1 (Sözel)	1 (Seviyor)	   1 (Empatik)	    127	    Dil becerisi yüksek, empatik, yaratıcı
+
+Psikolog	1 (Sözel)	1 (Seviyor)	   2 (Mantıklı)	    121	    Analitik düşünür, insan psikolojisine odaklı
+
+Doktor	    2 (Sayısal)	1 (Seviyor)	   1 (Empatik)	    226	    Bilimsel düşünen, yardım odaklı
+
+Mühendis	2 (Sayısal)	1 (Seviyor)	   2 (Mantıklı)	    220	    Sistematik, çözüm odaklı
+
+Öğretmen	1 (Sözel)	2 (Sevmiyor)	1 (Empatik)	    97	    Sabırlı, rehberlik eden, anlatma becerisi yüksek
+
+Vali	    2 (Sayısal)	2 (Sevmiyor)	2 (Stratejik)	190    Karar verici, otorite sahibi, politik bilinçli
+
+Şef	        1 (Sözel)	2 (Sevmiyor)	2 (Pratik)	    91	    Uygulamacı, sezgisel, yaratıcı alanlarda hızlı
+
+Pilot	    2 (Sayısal)	2 (Sevmiyor)	1 (Empatik)	    194   Soğukkanlı, teknik bilgiye hâkim, kararlı
+
